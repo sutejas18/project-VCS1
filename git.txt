@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 git version controller
+=======
+    hello hello 
+
+    Hello tanush,developer
+>>>>>>> intmain
